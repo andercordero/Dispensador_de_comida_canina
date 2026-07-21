@@ -53,3 +53,6 @@ Estas librerías se pueden instalar desde el **Gestor de Librerías** del IDE de
 
 - Los horarios configurados se conservan aunque el Arduino se apague o se reinicie, gracias al uso de la EEPROM.
 - El sistema evita dispensar comida más de una vez en el mismo minuto programado.
+
+---
+**U.E colegio Santa Teresita del Niño Jesus**
