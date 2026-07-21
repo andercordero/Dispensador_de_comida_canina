@@ -55,4 +55,4 @@ Estas librerías se pueden instalar desde el **Gestor de Librerías** del IDE de
 - El sistema evita dispensar comida más de una vez en el mismo minuto programado.
 
 ---
-**U.E colegio Santa Teresita del Niño Jesus**
+**U.E Colegio Santa Teresita del Niño Jesus**
